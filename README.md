@@ -11,7 +11,7 @@ I want to leverage these skills to solve business problems and drive data-driven
 ---
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devayani-shirbhate/)  
 
 ### 🚀 My Journey to Data Analytics  
 - Learning **Power BI**, **SQL**, **Excel**, and **Python** for data manipulation and visualization.  
