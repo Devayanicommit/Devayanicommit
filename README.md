@@ -10,18 +10,10 @@ I have always enjoyed deriving insights from data and making informed decisions.
 I want to leverage these skills to solve business problems and drive data-driven decision-making.
 ---
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devayani-shirbhate/)  
+
 
 ### 🚀 My Journey to Data Analytics  
 - Learning **Power BI**, **SQL**, **Excel**, and **Python** for data manipulation and visualization.  
-- Working on real-world projects:  
-   - **Sales Data Analysis** (Power BI & SQL)  
-   - **Customer Segmentation** (Python & Excel)  
-- Completed certifications:  
-   - [Certification Name] – [Issuing Authority]  
-   - [Certification Name] – [Issuing Authority]  
-
 ---
 
 ### 🛠️ Skills I Bring  
@@ -39,10 +31,9 @@ I want to leverage these skills to solve business problems and drive data-driven
 ---
 
 ### 📫 Let's Connect  
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Portfolio**: [Link to portfolio, projects, or GitHub repositories]  
-
+- **Email**: [sirbhatedevayani@gmail.com]
+  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devayani-shirbhate/)  
 ---
 
 🌟 *"Every dataset tells a story; I'm passionate about uncovering it and turning insights into action."*
